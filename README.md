@@ -169,3 +169,7 @@ http://localhost:8501
 - CI/CD using GitHub Actions
 - Model versioning with DVC
 - Cloud deployment using Azure or AWS
+
+ ## Google Colab Notebook
+
+[Open this project in Google Colab](https://colab.research.google.com/drive/1Qc7jS2Jyy-fhn0nF4LI5p1pv7choh0aq?usp=sharing)
